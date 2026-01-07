@@ -4,6 +4,51 @@
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+<br>
+
+<details>
+  <summary><strong>[ES] Versión en Español: Clic aquí para desplegar</strong></summary>
+
+  <br>
+
+  ## 1. Resumen del Proyecto
+  Este reporte presenta un dashboard en Power BI diseñado para analizar el rendimiento de las ventas en retail y almacén. El objetivo principal es visualizar la distribución de ventas, identificar tendencias clave de productos y comparar el rendimiento entre retail y almacén para descubrir insights de negocio accionables.
+
+  ---
+
+  ## 2. Vista Previa del Dashboard
+  ![Retail Sales Dashboard Showcase](./assets/dashboard_showcase.gif)
+
+  ---
+
+  ## 3. Insights Estratégicos (Teaser)
+  El análisis completo (disponible en el reporte PDF) va más allá de simples KPIs para identificar riesgos críticos y oportunidades estructurales para el negocio.
+
+  * **Insight 1:** Riesgo de Concentración de Categoría e Ineficiencia de SKUs.
+  * **Insight 2:** Flujo de Efectivo Estacional y Detección de Anomalías.
+  * **Insight 3:** Descubrimiento de Tres Modelos de Negocio Distintos.
+  * **Insight 4:** La Base de Proveedores Define el Modelo Operativo.
+
+  ---
+
+  ## 4. 🚀 Reporte Completo y Archivo Interactivo
+  Para ver el análisis estratégico completo, incluyendo recomendaciones detalladas para cada insight (`Proteger el Núcleo`, `Eliminar el Lastre`, `Diversificar para Crecer`), por favor lee el reporte completo del proyecto.
+
+  ➡️ **[Ver Reporte Completo del Proyecto (PDF)](./Hugo_Salinas_PowerBI_Retail_Sales_Analysis_ES.pdf)**
+
+  ➡️ **[Descargar Archivo Power BI (.pbix)](./Retail_Sales_Dashboard.pbix)**
+
+  ---
+
+  ## 5. Herramientas Utilizadas
+  * **Power BI Desktop:** Diseño de dashboard, visualización de datos e interactividad.
+  * **Power Query:** Limpieza de datos, transformación e ingeniería de características (ETL).
+  * **Fuente de Datos:** Dataset "U.S. Warehouse and Retail Sales" (data.gov).
+
+</details>
+
+<br>
+
 ---
 
 ## 1. Project Overview
